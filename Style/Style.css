@@ -1,0 +1,153 @@
+.main{
+  background-color:white;
+  font-family:Montserrat;
+}
+.headers{
+  color: Black;
+  font-family:Montserrat;
+  margin:0px;
+}
+.sect{
+  color:black;
+  background: white;
+  margin:0px;
+}
+.bar li{
+  display:inline;
+  float: right;
+  font-family:Montserrat;
+  padding: 3px;
+}
+
+.bar a{
+  text-decoration:none;
+  font-family:Montserrat;
+  font-size: 15px;
+}
+.par{
+   margin-left: 250px;
+}
+.par1{
+   margin-left: 270px;
+   margin-top: -20px;
+
+}
+.but{
+  width:75px;
+  padding-right:30px;
+  padding-left: 20px;
+  background: white;
+}
+.but1{
+  width:75px;
+  padding-right:30px;
+  padding-left: 10px;
+  margin-left: 20px;
+  background: white;
+}
+.but2, .but3{
+  width:75px;
+  padding-right:30px;
+  padding-left: 0px;
+  margin-left: 20px;
+  background: white;
+}
+.images{
+  width:75px;
+  height:75px;
+  text-align:center;
+  padding-left: 20px;
+}
+.FrontPage{
+  background-image: url(../photos/FrontPage.jpg);
+  background-repeat: no-repeat;
+  background-size:960px;
+  height: 500px;
+  position: relative;
+}
+.FrontPage h2{
+  text-align: center;
+  margin-top: 20px;
+}
+.opa{
+  position:absolute;
+  height:100%;
+  width:100%;
+  background:antiquewhite;
+  opacity:0.5;
+  margin: 0;
+}
+
+.Form1{
+  border-style: solid;
+  border-width: 1px 1px;
+  border-spacing: 10px;
+}
+.Paragraph_Statistics{
+  margin: 50px;
+}
+.part1 p, .part2 p, .part3 p{
+  font-family: serif;
+  font-size: 20px;
+
+}
+.Image{
+  height: 200px;
+}
+.adjust{
+  padding-bottom: 10px;
+  padding-top:30px;
+  padding-right: 20px;
+  width:200px;
+  height:200px;
+}
+.primary{
+font-family:sans-serif;
+}
+.primaries{
+  font-size: 14px;
+  font-family:Montserrat;
+  text-align: left;
+  margin:3px;
+}
+.prims{
+  font-family:Montserrat;
+  font-size: 22px;
+}
+.primary{
+  font-family:serif;
+  font-size:20px;
+  color:grey;
+  padding-top:0px;
+}
+.prim{
+  float:right;
+  font-family:Montserrat;
+  font-size: 14px;
+}
+.foot{
+  background-color: black;
+  margin: 5px;
+}
+.foot a{
+  font-family:Montserrat;
+  font-size: 20px;
+}
+.footlist li{
+  display:inline;
+}
+.footimage{
+  width :100px;
+  height:50px;
+}
+.para{
+  color: white;
+  font-size: 25px;
+  font-family: serif;
+}
+.listitem li{
+  font-size: 20px;
+  font-style: italic;
+  font-family: serif;
+  padding-bottom: 20px;
+}
